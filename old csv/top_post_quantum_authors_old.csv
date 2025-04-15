@@ -1,0 +1,755 @@
+Author,Paper Count
+Abel C. H. Chen,9
+Angshuman Karmakar,9
+Suparna Kundu,7
+Ingrid Verbauwhede,7
+Yunlei Zhao,5
+Attila A. Yavuz,4
+Emily Wenger,4
+Kristin Lauter,4
+Saleh Darzi,4
+Mehran Mozaffari Kermani,4
+Shiva Raj Pokhrel,4
+Gang Li,4
+Reza Azarderakhsh,3
+Junyu Liu,3
+Kunal Dey,3
+Juan Pedro Hecht,3
+Hugo Daniel Scolnik,3
+Attila Altay Yavuz,3
+Jieyu Zheng,3
+Atul Chaturvedi,3
+Kasra Ahmadi,3
+Saif E. Nouma,3
+Kiarash Sedghighadikolaei,3
+Takashi Yamakawa,3
+Saeed Aghapour,3
+Maximilian Schöffel,3
+Prabhanjan Ananth,3
+Norbert Wehn,3
+Dafu Lou,3
+Randy Kuang,3
+Xiaogang Cheng,2
+Francois Charton,2
+Jose Maria Bermudo Mera,2
+Ren Guo,2
+Puja Mondal,2
+Kai-Min Chung,2
+M Sabbir Salek,2
+Amit Behera,2
+Dev Gurung,2
+Ana Fernández-Vilas,2
+Ludovic Perret,2
+Manuel Fernández-Veiga,2
+Mashrur Chowdhury,2
+Pedro Otero-García,2
+Alessandro Luongo,2
+Xiao Liang,2
+Vicente Martin,2
+Juan P. Brito,2
+Jaime S. Buruaga,2
+Maria Perepechaenko,2
+Sanzida Hoque,2
+Mizanur Rahman,2
+Alexander Kolar,2
+Yingjie Lao,2
+Or Sattath,2
+Michael T. Solomon,2
+Praveen Gauravaram,2
+Warren Armstrong,2
+F. Joseph Heremans,2
+David D. Awschalom,2
+Yafang Yang,2
+Liang Jiang,2
+Marco Calderini,2
+Quinten Norga,2
+Anindya Ganguly,2
+Khondokar Fida Hasan,2
+Xinmiao Zhang,2
+Jiaxuan Cai,2
+Louis Salvail,2
+Pei Zeng,2
+Mohammed Barhoush,2
+Aditya Gulati,2
+Nolan Bitner,2
+Gerhard Wunder,2
+Khan Reaz,2
+Rotem Arnon-Friedman,2
+Engin Zeydan,2
+Shreyas Sen,2
+José A. Méndez Méndez,2
+Debayan Bandyopadhyay,2
+Johannes Feldmann,2
+Christopher Battarbee,2
+Archisman Ghosh,2
+Abdullah Aydeger,2
+Zhenyu Song,2
+Santosh Ghosh,2
+Bong Gon Kim,2
+Christian Näther,2
+Jan-Philipp Steghöfer,2
+Vikas Chouhan,2
+Yoon Seok Yang,2
+Dennis Wong,2
+Vikas Srivastava,2
+David Joseph,2
+Strahinja Praska,2
+Eshika Saxena,2
+Carlo Sanna,2
+Mohamed Malhou,2
+Cathy Li,2
+Abhinav Awasthi,2
+Tiago M. Fernandez-Carames,2
+Sumit Kumar Debnath,2
+Aikata Aikata,2
+Mihajlo Srbakoski,2
+Stefan-Lukas Gazdag,2
+Haoliang Zhu,2
+Sujoy Sinha Roy,2
+Daniel Herzinger,2
+Daniel Loebenberger,2
+Hong Zhang,2
+Marija Mikic,2
+Yaser Baseri,2
+Yao-Ting Lin,1
+Debapriya Basu Roy,1
+Namya Dimri,1
+Rasha Sinha,1
+Samuel Pagliarini,1
+Lucy Sharma,1
+Anupama Arjun Pandit,1
+Rafael J. Vicente,1
+Kanaka Raju Pandiri,1
+Arun Mishra,1
+Ruben B. Mendez,1
+Suraj Mandal,1
+Hans H. Brunner,1
+Sarani Bhattacharya,1
+Malik Imran,1
+Diego Lopez,1
+Antonio Pastor,1
+Ralf-Peter Braun,1
+Momtchil Peev,1
+Marc Geitz,1
+Piotr Rydlichkowski,1
+Fred Fung,1
+Fatih Kaleoglu,1
+Tanmay Tripathi,1
+G S Mamatha,1
+Lior Ozer,1
+Arash Khalvan,1
+S. M. Girvin,1
+Simon Daum,1
+Le Tian,1
+Zhuo Zhang,1
+Hanyu Wei,1
+Zhiwei Chu,1
+Shruti Puri,1
+Abdelhakim Hafid,1
+D. K. Weiss,1
+Manish K Gupta,1
+Ali Ghorbani,1
+Aaron Chow,1
+Jihoon Cho,1
+Changhoon Lee,1
+Eunkyung Kim,1
+Jieun Lee,1
+Beumjin Cho,1
+Savo Glisic,1
+Sourav Deb,1
+Kouichi Sakurai,1
+Paavan Parekh,1
+Param Parekh,1
+Shaurya Pratap Singh,1
+Girraj Kumar Verma,1
+Nahida Majeed Wani,1
+Prosanta Gope,1
+Max Brauer,1
+Sayandeep Saha,1
+Yasuyuki Kachi,1
+Carlos Hernando-Ramiro,1
+Javier Junquera-Sánchez,1
+Alessandro Annechini,1
+Mauro Conti,1
+Alessandro Barenghi,1
+Alessandro Brighente,1
+Tommaso Bianchi,1
+Debasish Roy,1
+Sihem Mesnager,1
+Gerardo Pelosi,1
+Paresh Baidya,1
+Sang-Yoon Chang,1
+Gennady Khalimov,1
+Yevgen Kotukh,1
+Yaroslav Balytskyi,1
+Brinda Tank,1
+Josu Etxezarreta Martinez,1
+Pedro M. Crespo,1
+Amir K. Khandani,1
+Gerard Vidal,1
+Antonio deMarti iOlius,1
+Javier Oliva del Moral,1
+Kazuhiro Yokoyama,1
+Siddhartha Chowdhury,1
+Momonari Kudo,1
+Thanos Stouraitis,1
+Baker Mohammad,1
+Mahmoud Al-Qutayri,1
+Hani Saleh,1
+Ghada Alsuhli,1
+Raja Jurdak,1
+Gowri Ramachandran,1
+Bo-Gyeong Kang,1
+Tao Liu,1
+Wonil Lee,1
+Jang-Won Ju,1
+Šimon Schierreich,1
+Joseph Carolan,1
+Alexander Poremba,1
+Debdeep Mukhopadhyay,1
+Jong-Yeon Park,1
+John J. Prisco,1
+Petros Wallden,1
+ Pranjal,1
+Saar Tarnopolsky,1
+Alejandro Cohen,1
+Quang Dao,1
+Aayush Jain,1
+Samuel Stevens,1
+Peter Hillmann,1
+Barak Nehoran,1
+Tomoyuki Morimae,1
+Niklas Nolte,1
+Nitin Saxena,1
+Tao Hou,1
+François Charton,1
+Tao Wang,1
+Alex Seals,1
+Luke Gayler,1
+Marel Alvarado,1
+José-Antonio Gómez-Sánchez,1
+Óscar Gamallo-Palomares,1
+Paula Fraga-Lamas,1
+Milos Prokop,1
+Hamid Amiriara,1
+Amirhossein Zali,1
+Jean-Pierre Seifert,1
+Chao Qiu,1
+Xiaofei Wang,1
+Carolin Hannusch,1
+Giuseppe Filippone,1
+Shai Wyborski,1
+Jana Sotáková,1
+Evrard Garcelon,1
+Jonathan Conrad,1
+Jens Eisert,1
+Rongxin Xu,1
+Mahmoud Ahmadian Attari,1
+Qiujun Lan,1
+Antonio J. Di Scala,1
+James Bartusek,1
+Fuyuki Kitagawa,1
+Ryo Nishimaki,1
+Mikhail Anokhin,1
+Sarabjeet Singh,1
+Xiong Fan,1
+Ananth Krishna Prasad,1
+Zehui Xiong,1
+Jiawen Kang,1
+Dusit Niyato,1
+Minrui Xu,1
+Naifeng Zhang,1
+Benedict Reynwar,1
+Homer Gamil,1
+Benjamin Heyman,1
+Mohammed Nabeel,1
+Ahmad Al Badawi,1
+Yuriy Polyakov,1
+Kellie Canida,1
+Massoud Pedram,1
+Michail Maniatakos,1
+David Bruce Cousins,1
+Franz Franchetti,1
+Matthew French,1
+Andrew Schmidt,1
+Brandon Reagen,1
+Mengxin Zheng,1
+Qian Lou,1
+Lei Jiang,1
+Xiaoxu Ren,1
+Lin Jia,1
+Anirban Nag,1
+Rajeev Balasubramonian,1
+Davide Zoni,1
+Licheng Wang,1
+Lize Gu,1
+Ziyi Li,1
+Jingwen Suo,1
+Jason Goertzen,1
+Douglas Stebila,1
+Zhichuang Liang,1
+Shiyu Shen,1
+Hao Yang,1
+Wangchen Dai,1
+Zhe Liu,1
+Mi-Ying Huang,1
+Er-Cheng Tang,1
+Jiapeng Zhang,1
+Luowen Qian,1
+Henry Yuen,1
+Ahmet Can Mert,1
+David Jacquemin,1
+Amitabh Das,1
+Xingyu Yan,1
+William Fornaciari,1
+Mahdi Nazm Bojnordi,1
+Gabriele Montanaro,1
+Elaine Shi,1
+Qian Li,1
+Xiaoming Sun,1
+Xingjian Zhang,1
+Hongyi Zhou,1
+Alex He,1
+Eric She,1
+Shangjie Guo,1
+Hareesh Watson,1
+Sibyl Weng,1
+Rand Kuang,1
+Heung-No Lee,1
+Young-Sik Kim,1
+Dilbag Singh,1
+Manjit Kaur,1
+Reza Hooshmand,1
+Farhad Naserizadeh,1
+Jalil Mazloum,1
+Andrea Galimberti,1
+Negar Neda,1
+Deepraj Soni,1
+Jakub Szefer,1
+Vorapong Suppakitpaisarn,1
+Makan Rafiee,1
+Robin Müller,1
+Willi Meier,1
+Christoph F. Wildfeuer,1
+Mohammed Gharib,1
+Fatemeh Afghah,1
+Yathin Kethepalli,1
+Rony Joseph,1
+Sai Raja Vajrala,1
+Jashwanth Vemula,1
+Nenavath Srinivas Naik,1
+Richard Sattel,1
+Christoph Spang,1
+Carsten Heinz,1
+Andreas Koch,1
+A. D. Kodukhov,1
+V. A. Pastushenko,1
+N. S. Kirsanov,1
+D. A. Kronberg,1
+Lars Hupel,1
+Reiji Suda,1
+V. M. Vinokur,1
+Pengchang Ren,1
+Weihang Tan,1
+Keshab K. Parhi,1
+Yi-Kai Liu,1
+Zvika Brakerski,1
+Thomas Vidick,1
+Yanlin Chen,1
+Yilei Chen,1
+Rajendra Kumar,1
+Subhasree Patro,1
+Florian Speelman,1
+Júlia Barberà-Rodríguez,1
+Anand Kumar Narayanan,1
+Chuhan Lu,1
+Minglong Qin,1
+Fang Song,1
+Penghui Yao,1
+Mingnan Zhao,1
+Kadir Sabanci,1
+Mumin Cebe,1
+M. Pflitsch,1
+Hong Jie Ng,1
+Victor Mateu,1
+Zeyuan Allen-Zhu,1
+Izzy Friedlander,1
+Zheng Wang,1
+Olivier Bernard,1
+Pierre-Alain Fouque,1
+Andrea Lesavourey,1
+Alvaro Cintas Canto,1
+Jasmin Kaur,1
+Debayan Das,1
+Vincent Giraud,1
+Guillaume Bouffard,1
+Thomas Hader,1
+Daniela Kaufmann,1
+Laura Kovács,1
+Delaram Kahrobaei,1
+Siamak F. Shahandashti,1
+Aleksey K. Fedorov,1
+Thomas Debris-Alazard,1
+Ferhat Erata,1
+Ruzica Piskac,1
+Mst Shapna Akter,1
+Cathy Yuanchen Li,1
+Wen Yu Kon,1
+Benjamin Smith,1
+Ignatius William Primaatmaja,1
+Chao Wang,1
+Charles Lim,1
+Amir Rafi,1
+Carlton Shepherd,1
+Konstantinos Markantonakis,1
+Mengyuan Li,1
+Haoran Geng,1
+Michael Niemier,1
+Xiaobo Sharon Hu,1
+Leonie Simpson,1
+Mir Ali Rezazadeh Baee,1
+Chadni Islam,1
+Ziaur Rahman,1
+Matthew McKague,1
+Ilya Merkulov,1
+Gustavo Banegas,1
+Valerie Gilchrist,1
+Anaëlle Le Dévéhat,1
+Nicolas Gama,1
+Sutharshan Rajasegarar,1
+Zhenhao Zhang,1
+Bruno Cimoli,1
+Tommaso Fioravanti,1
+Michele Carminati,1
+Stefano Zanero,1
+Dongfang Zhao,1
+Javier Blanco-Romero,1
+Daniel Sobral-Blanco,1
+Florina Almenares-Mendoza,1
+Nick Aquina,1
+Soumya Das,1
+Yifan Dong,1
+Kathrin Hövelmanns,1
+Fiona Johanna Weber,1
+Chigo Okonkwo,1
+Simon Rommel,1
+Boris Škorić,1
+Idelfonso Tafur Monroy,1
+Sebastian Verschoor,1
+Yongho Ko,1
+Armando Bellante,1
+Omkant Pandey,1
+Rohit Chatterjee,1
+Edmundo Monteiro,1
+Liam Peet-Pare,1
+Antoine Joux,1
+Rocco Mora,1
+Brian LaMacchia,1
+Matt Campagna,1
+William Gropp,1
+Shuangbao Wang,1
+Adrián Juan-Delgado,1
+Geza Giedke,1
+Javier Aizpurua,1
+Ruben Esteban,1
+Brian Romansky,1
+Thomas Mazzuchi,1
+Shahram Sarkani,1
+Ruben B. Méndez,1
+Hadi GHaravi,1
+Jorge Granjal,1
+I Wayan Adi Juliawan Pawana,1
+Ilsun You,1
+Albert Nieto Morales,1
+Jaafar Gaber,1
+Daniel Slamanig,1
+Huapeng Li,1
+Baocheng Wang,1
+Bon-Yeh Lin,1
+Ewa J Infeld,1
+David Stainton,1
+Leif Ryge,1
+Threebit Hacker,1
+Maxime Bombar,1
+Nicolas Resch,1
+Emiel Wiedijk,1
+Akash nag Oruganti,1
+Eric Yocam,1
+Anthony Rizi,1
+Mahesh Kamepalli,1
+Varghese Vaidyan,1
+Yong Wang,1
+Reihaneh Safavi-Naini,1
+Huaxiang Lu,1
+Arit Kumar Bishwas,1
+Gang Chen,1
+Joel Jacob Varghese,1
+Nianqi Tang,1
+Yunghsiang S. Han,1
+Danyang Pei,1
+Chao Chen,1
+Kaiyuan Zhang,1
+Antian Wang,1
+Georg Maringer,1
+Antonia Wachter-Zeh,1
+Susanne Pumpluen,1
+Hao Yue,1
+Tianhang Liang,1
+Yihao Chen,1
+Xiangrui Li,1
+Xin Kong,1
+Zhelong Jiang,1
+Zhigang Li,1
+Muhammad Ihsan Al Hafiz,1
+Fabian Segatz,1
+William J Buchanan,1
+Kun Tian,1
+Heng Guo,1
+Zhe Hu,1
+Oleksiy Zhedanov,1
+Zixian Gong,1
+Yoann Piétri,1
+Pierre-Enguerrand Verdier,1
+Baptiste Lacour,1
+Maxime Gautier,1
+Heming Huang,1
+Thomas Camus,1
+Jean-Sébastien Pegon,1
+Martin Zuber,1
+Jean-Charles Faugère,1
+Matteo Schiavon,1
+Amine Rhouni,1
+Yves Jaouën,1
+Nicolas Fabre,1
+Yi Zhang,1
+Zhiyong Zheng,1
+Thomas Rivera,1
+Fengxia Liu,1
+Rahim Tafazolli,1
+Danilo Gligoroski,1
+Mayank Raikwar,1
+Sonu Kumar Jha,1
+Kevin Song,1
+Noorullah Imran,1
+Jake Y. Chen,1
+Allan C. Dobbins,1
+Ernesto Sola-Thomas,1
+Masudul H Imtiaz,1
+Trey Li,1
+Mohammed El Baraka,1
+Siham Ezzouak,1
+M. A. González de la Torre,1
+I. A. Morales Sandoval,1
+Giuseppe Thadeu Freitas de Abreu,1
+L. Hernández Encinas,1
+Romain Alléaume,1
+Eleni Diamanti,1
+Mouad Lemoudden,1
+Omer Boehm,1
+Eyal Bin,1
+Efrayim Sztokman,1
+Sukanta Bhattacharjee,1
+Meghnath Saha,1
+James McGugan,1
+Tushin Mallick,1
+Ramana Kompella,1
+Ashish Kundu,1
+Cristina Nita-Rotaru,1
+Ahmed M. Elmisery,1
+Mirela Sertovic,1
+Andrew Zayin,1
+Paul Watson,1
+Elif Dicle Demir,1
+Buse Bilgin,1
+Mehmet Cengiz Onbasli,1
+Denis Berger,1
+Anatoly Koyfman,1
+Micha Moffie,1
+Enrico Sorbera,1
+Ahmed Farouk,1
+Federica Zanetti,1
+Giacomo Brandi,1
+Alessandro Tomasi,1
+Roberto Doriguzzi-Corin,1
+Silvio Ranise,1
+Jinyi Qiu,1
+Aydin Aysu,1
+I. Cherkaoui,1
+S. Belabssir,1
+J. Horgan,1
+I. Dey,1
+Léo Ducas,1
+Lynn Engelberts,1
+Johanna Loyer,1
+Utkarsh Azad,1
+Bikash K. Behera,1
+Houbing Song,1
+Gurcan Comert,1
+Asif Alif,1
+Jesse Laeuchli,1
+Shreya Banerjee,1
+Somanath Tripathy,1
+Prasanta K. Panigrahi,1
+Ellie Thieu,1
+Jakub Sowa,1
+Bach Hoang,1
+Advaith Yeluru,1
+Steven Qie,1
+Anita Nikolich,1
+Ravishankar Iyer,1
+Phuong Cao,1
+Tatsuru Kikuchi,1
+Basel Halak,1
+Cristian Sebastian Csete,1
+Edward Joyce,1
+Jack Papaioannou,1
+Alexandre Pires,1
+Jin Soma,1
+Harshita Meena,1
+Eduard Hirsch,1
+Michael Murphy,1
+Gui-Lu Long,1
+Alexandros Stavdas,1
+Marco Russo,1
+Bartolomeo Montrucchio,1
+Marco Menchetti,1
+Davide Bacco,1
+Silvia Marigonda,1
+Francesco Stocco,1
+Guglielmo Morgari,1
+Antonio Manzalini,1
+Muxi Zheng,1
+Jinfeng Zeng,1
+Wentao Yang,1
+Pei-Jie Chang,1
+Bao Yan,1
+Haoran Zhang,1
+Min Wang,1
+Shijie Wei,1
+Betul Gokkaya,1
+Somnath Kumar,1
+André Xuereb,1
+Janampalli Pavanija,1
+ Akash,1
+Shivam Gupta,1
+Sachin B. Patkar,1
+Alessio Caminata,1
+Irene Villa,1
+Johanna Barzen,1
+Frank Leymann,1
+Marcel Kempf,1
+Nikolas Gauder,1
+Benedikt Jaeger,1
+Johannes Zirngibl,1
+Georg Carle,1
+Chuanming Zong,1
+Elena R. Henderson,1
+Jessie M. Henderson,1
+William V. Oxford,1
+Mitchell A. Thornton,1
+Pratyush Pare,1
+Devansh Gupta,1
+Ashok Kumar Das,1
+Neralla Manikanta,1
+Kai Wang,1
+Dejun Xu,1
+Jing Tian,1
+Luxing Yang,1
+Mahtab Mirmohseni,1
+Aydin Abadi,1
+Yvo Desmedt,1
+Emils Bagirovs,1
+Grigory Provodin,1
+Tuomo Sipola,1
+Jari Hautamäki,1
+Matthew John Cossins,1
+Sendy Phang,1
+Mandar Datar,1
+Dhruva S. Hegde,1
+Vendra Durga Prasad,1
+Manish Prajapati,1
+Evangelos Kosmatos,1
+Nicholas Frendo,1
+Mohammad Jabed Morshed Chowdhury,1
+Kevin Verhaeghe,1
+Abdullah Al Shafin,1
+Ziyu Ye,1
+Filip Rozpędek,1
+Tian Zhong,1
+Uttam Kumar Ojha,1
+Mansi Goyal,1
+Bupendra Singh,1
+Aditi Kar Gangopadhyay,1
+Jamie J. Pont,1
+Joseph J. Kearney,1
+Jack Moyler,1
+Carlos A. Perez-Delgado,1
+Marco Tesoro,1
+Ilaria Siloi,1
+Daniel Jaschke,1
+Giuseppe Magnifico,1
+Simone Montangero,1
+S. M. Yousuf Iqbal Tomal,1
+Sebastian Ramacher,1
+George Giapitzakis,1
+Christoph Striecks,1
+Valentina Astore,1
+Martino Borello,1
+Flavio Salizzoni,1
+Abdullah Al Mamun,1
+Akid Abrar,1
+Hiandra Tomasi,1
+Syed W. Shah. Lei Pan,1
+Din Duc Nha Nguyen,1
+Robin Doss,1
+Abraham Itzhak Weinberg,1
+Pythagoras Petratos,1
+Alessio Faccia,1
+Alessandro Chiesa,1
+Marcel Dall Agnol,1
+Zijing Di,1
+Ziyi Guan,1
+Nicholas Spooner,1
+Joao F. Doriguello,1
+Aditya Morolia,1
+Daniel Bonanno,1
+Shreya Gangopadhyay,1
+Jakapan Suaboot,1
+Warodom Werapun,1
+Supriya Adhikary,1
+Nai-Hui Chia,1
+Jiahui Liu,1
+Ben Dong,1
+Qian Wang,1
+Pingzhi Li,1
+Tianlong Chen,1
+Nicholas J. Daras,1
+Zebo Yang,1
+Haneen Alfauri,1
+Behrooz Farkiani,1
+Raj Jain,1
+Roberto Di Pietro,1
+Aiman Erbad,1
+Noel Farrugia,1
+Norrathep Rattanavipanon,1
+Attila A Yavuz,1
+Ainaz Jamshidi,1
+Carlos Vela Cabello,1
+Khushdeep Kaur,1
+Aryya Gangopadhyay,1
+Lei Zhang,1
+Gretchen L Matthews,1
+Emily McMillon,1
+Saachi Mutreja,1
+Mark Zhandry,1
+Eyal Z. Goren,1
+Jonathan R. Love,1
+Iván Blanco Chacón,1
+Raúl Durán Díaz,1
+Rodrigo Martín Sánchez-Ledesma,1
+Pierre-Augustin Berthet,1
+Anna-Lena Horlemann,1
+Karan Khathuria,1
+Marc Newman,1
+Amin Sakzad,1
+Donald Matthews,1
